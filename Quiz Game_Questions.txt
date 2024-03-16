@@ -1,0 +1,15 @@
+What is the capital of France?,Paris,Berlin,London,Madrid,Paris
+Who is the author of "Romeo and Juliet"?,William Shakespeare,Charles Dickens,Jane Austen,Mark Twain,William Shakespeare
+What is the capital of India?,Mumbai,New Delhi,bangalore,Lucknow,New Delhi
+What is the currency of Russia?,Rupee,Dollar,Euro,Ruble,Ruble
+Who is known as the "Father of Computers"?,Alan Turing,Charles Babbage,Ada Lovelace,Tim Berners-Lee,Charles Babbage
+What is the national language of India?,Marathi,Tamil,Hindi,English,Hindi
+Which planet is known as the "Red Planet"?,Jupiter,Mars,Venus,Saturn,Mars
+Who painted the Mona Lisa?,Michelangelo,Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Leonardo da Vinci
+What is the largest mammal in the world?,Blue whale,African elephant,Giraffe,Polar bear,Blue whale
+Which country is known as the Land of the Rising Sun?,China,India,Japan,South Korea,Japan
+Who wrote the novel "To Kill a Mockingbird"?,Harper Lee,Mark Twain,Ernest Hemingway,F. Scott Fitzgerald,Harper Lee
+What is the chemical symbol for water?,O2,H2O,CO2,NaCl,H2O
+In which year did the Titanic sink?,1912,1921,1905,1916,1912
+What is the largest ocean on Earth?,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,Pacific Ocean
+Who was the first person to step on the moon?,Neil Armstrong,Buzz Aldrin,Yuri Gagarin,John Glenn,Neil Armstrong
